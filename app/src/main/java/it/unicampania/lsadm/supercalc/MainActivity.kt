@@ -11,6 +11,7 @@ import kotlinx.android.synthetic.main.activity_main.*
  * SuperCalc: Activity principale
  * Corso LSADM anno 2018/19
  * Pasquale Cantiello
+ * modifica emanuela
  */
 class MainActivity : AppCompatActivity() {
 
